@@ -180,5 +180,7 @@ main strong {
     color: var(--cor4);
     font-weight: bold;
 }
-
+*footer h2 {
+    font-family: cursive;
+}
 
